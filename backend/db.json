@@ -1,0 +1,16 @@
+{
+  "collections": [
+    {
+      "id": "6956b14e-b38a-4ddf-a55d-806ce0de53b5",
+      "name": "my cplleciton",
+      "items": [
+        {
+          "id": "2f46fd5f-f160-4b3e-9cef-85a698d9f12e",
+          "imageUrl": "https://pixabay.com/get/g257fe0461ee2b540af545031938d719d4de45644b8444aa9ef84dfcb0e1885bba4788bf31ece2f5529e631b560789e9038a8895a8f02a39b761cd7ccefef2ebe_640.jpg",
+          "tags": "hi"
+        }
+      ],
+      "createdAt": "2026-09-19T04:08:48.321Z"
+    }
+  ]
+}
